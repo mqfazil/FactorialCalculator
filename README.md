@@ -1,1 +1,1 @@
-CALCULATES FACTORIAL
+calculates factorial and fibonacci
