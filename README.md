@@ -1,1 +1,1 @@
-calculates factorial and fibonacci
+calculates factorial, fibonacci, and number of zeros
